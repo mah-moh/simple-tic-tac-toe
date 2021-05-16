@@ -1,4 +1,3 @@
-alert('Hey this Maheen');
 var restart = document.querySelector('#b');
 var table = document.querySelectorAll('td');
 function clear() {
